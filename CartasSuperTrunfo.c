@@ -8,7 +8,7 @@ int main() {
     printf("Dasfio Cartas Super Trunfo!\n");
     printf("Novo commit\n");
   // Área para definição das variáveis para armazenar as propriedades das cidades
-
+    printf
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
